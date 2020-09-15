@@ -11,3 +11,4 @@ description: cosmic-grade software
 - [Jumper]() (coming soon)
 
 *Enter activation codes [here](http://code.empyrn.co).*
+*Shop all clock faces [here](http://shop.empyrn.co)*
