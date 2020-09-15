@@ -1,6 +1,6 @@
 ---
 title: EMPYRN Co.
-description: EMPYRN Co.
+description: cosmic-grade software
 ---
 
 # Clock Faces
